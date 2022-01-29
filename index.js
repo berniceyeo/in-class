@@ -1,1 +1,1 @@
-console.log(`good day ${name}, are you well?`);
+console.log(`yo ${name}, what's up dude.`);
